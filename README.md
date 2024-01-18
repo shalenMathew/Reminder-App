@@ -9,8 +9,8 @@ Features:<br>
 - u cross the todo once completed the task
 
 <img src="https://github.com/shalenMathew/Reminder-App/blob/master/gallery/1.png" alt="Splash_Screen" width="270" height="600">
-<img src="https://github.com/shalenMathew/Reminder-App/blob/master/gallery/1.png" alt="Splash_Screen" width="270" height="600">
-<img src="https://github.com/shalenMathew/Reminder-App/blob/master/gallery/1.png" alt="Splash_Screen" width="270" height="600">
-<img src="https://github.com/shalenMathew/Reminder-App/blob/master/gallery/1.png" alt="Splash_Screen" width="270" height="600">
+<img src="https://github.com/shalenMathew/Reminder-App/blob/master/gallery/2.png" alt="Splash_Screen" width="270" height="600">
+<img src="https://github.com/shalenMathew/Reminder-App/blob/master/gallery/3.png" alt="Splash_Screen" width="270" height="600">
+<img src="https://github.com/shalenMathew/Reminder-App/blob/master/gallery/4.png" alt="Splash_Screen" width="270" height="600">
 
 
