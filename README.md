@@ -8,7 +8,7 @@ Features:<br>
 - uses Alarm manager to schedule notifications
 - u cross the todo once completed the task
 
-<img src="[https://github.com/shalenMathew/Personal-Journal-App/assets/119736953/8a73b3ca-5bf8-43f7-85e1-460046ff8e1b](https://github.com/shalenMathew/Reminder-App/blob/master/gallery/1.png)" alt="Splash_Screen" width="270" height="500">
+<img src="https://github.com/shalenMathew/Personal-Journal-App/assets/119736953/8a73b3ca-5bf8-43f7-85e1-460046ff8e1b](https://github.com/shalenMathew/Reminder-App/blob/master/gallery/1.png" alt="Splash_Screen" width="270" height="500">
 
 <img src="https://github.com/shalenMathew/Personal-Journal-App/assets/119736953/4640aba6-9e7a-4e58-a4f4-dd85656e315f" alt="Splash_Screen" width="270" height="500">
 
