@@ -75,4 +75,9 @@ dependencies {
     implementation( "androidx.compose.material:material-icons-extended:1.5.4")
     implementation ("androidx.hilt:hilt-navigation-compose:1.1.0")
 
+        // room testing
+    testImplementation("androidx.room:room-testing:2.6.1")
+    androidTestImplementation("androidx.room:room-testing:2.6.1")
+    testImplementation("androidx.arch.core:core-testing:2.2.0")
+    androidTestImplementation("androidx.arch.core:core-testing:2.2.0")
 }

@@ -16,7 +16,7 @@ interface ReminderNotesDao {
     @Insert(onConflict = OnConflictStrategy.REPLACE)
    suspend fun insertNote(note: ReminderNote)
 
-//   @Query("SELECT * FROM remindernote WHERE id=:id")
+//   @Query("SELECT * FROM reminder note WHERE id=:id")
 //   suspend fun getNoteById(id:Int): ReminderNote?
 
    @Insert(onConflict = OnConflictStrategy.REPLACE)
