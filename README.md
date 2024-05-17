@@ -7,7 +7,6 @@ Features:<br>
 - follows Clean architecture + MVVM
 - uses Alarm manager to schedule notifications
 - u can cross the todo once the task is completed
-- The app is thoroughly tested with unit tests using JUnit 
 
 <img src="https://github.com/shalenMathew/Reminder-App/blob/master/gallery/1.png" alt="Splash_Screen" width="270" height="600">
 <img src="https://github.com/shalenMathew/Reminder-App/blob/master/gallery/2.png" alt="Splash_Screen" width="270" height="600">
